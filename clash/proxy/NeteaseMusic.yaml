@@ -5,9 +5,3 @@ proxies:
     port: 30001
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_d39m
-  - name: ‼️ 免费代理，遇收费请举报
-    type: ss
-    server: 127.0.0.1
-    port: 8080
-    cipher: aes-128-gcm
-    password: This_proxy_is_for_free
